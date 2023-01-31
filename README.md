@@ -1,0 +1,1 @@
+# soltysgminy.github.io
