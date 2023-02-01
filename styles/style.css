@@ -5,10 +5,6 @@ body {
     font-family: Calibri;
 }
 
-td {
-    display: inline-block;
-}
-
 p {
     font-size: 15px;
     color: rgb(20, 20, 20);
